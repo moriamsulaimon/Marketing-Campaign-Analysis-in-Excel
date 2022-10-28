@@ -3,7 +3,7 @@
 An analysis of Atlas Bank marketing leads dataset using Exploratory Data Analysis (EDA) and Market Basket Analysis (Association Rule Mining) in Excel.
 
 ### Dataset
-Download the dataset here: 
+Download the dataset here:
 https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 ### Tool
